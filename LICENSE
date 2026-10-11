@@ -1,0 +1,129 @@
+Colibri Source License 1.0
+
+Copyright (c) 2026 Runlot. All rights reserved.
+
+This license governs use of the software known as Colibri (the "Software").
+Source code is available; this is not an Open Source license as defined by the
+Open Source Initiative. Each version of the Software becomes available under
+the Apache License, Version 2.0 on its Change Date (Section 6).
+
+1. Definitions
+
+   "Licensor" means Runlot and its successors.
+
+   "You" means the individual or legal entity exercising rights under this
+   license. For a legal entity, "You" includes every entity under common
+   control with it, where "control" means ownership of more than fifty
+   percent of voting interests or the power to direct management.
+
+   "Production Use" means use of the Software other than for development,
+   testing, evaluation, education, research or demonstration.
+
+   "Annual Revenue" means the total gross revenue of You, measured over the
+   most recently completed fiscal year, in all currencies converted to United
+   States dollars at the average exchange rate of that year.
+
+   "Revenue Threshold" means ten million United States dollars
+   (USD 10,000,000; about KRW 14,000,000,000 as of 2026).
+
+   "Database Service" means a commercial offering that allows third parties
+   (other than Your employees and contractors) to access the functionality of
+   the Software by creating databases or tables whose schemas are controlled
+   by those third parties.
+
+   "Change Date" means, for each version of the Software, the fourth
+   anniversary of the date the Licensor first publicly distributes that
+   version.
+
+   "Commercial License" means a separate written agreement with the Licensor
+   granting rights beyond this license.
+
+2. Grant
+
+   Subject to the conditions in Section 3 and the exclusion in Section 4, the
+   Licensor grants You a worldwide, non-exclusive, non-transferable,
+   royalty-free right to copy, modify, create derivative works of,
+   redistribute, and use the Software, including Production Use.
+
+3. Conditions
+
+   (a) Production Use is free of charge if You are an individual acting on
+       Your own behalf, an educational or academic institution, a non-profit
+       organisation, or an organisation whose Annual Revenue is below the
+       Revenue Threshold.
+
+   (b) If Your Annual Revenue is at or above the Revenue Threshold, Production
+       Use requires a Commercial License. You may evaluate the Software for
+       Production Use for thirty days without one.
+
+   (c) The Revenue Threshold is assessed when You first make Production Use
+       of a given version of the Software. If You were below the Threshold at
+       that time, crossing it later does not require a Commercial License for
+       that version; it applies to the next version You adopt.
+
+   (d) You must retain this license, the NOTICE file and all copyright and
+       attribution notices in every copy or substantial portion of the
+       Software and in any derivative work, and You must make this license
+       conspicuously available to anyone You distribute the Software or a
+       derivative work to. A derivative work distributed by You is subject to
+       this license.
+
+4. Exclusion
+
+   Regardless of Annual Revenue, You may not use the Software to provide a
+   Database Service without a Commercial License. For clarity, running the
+   Software inside Your own applications, for Your own organisation, or
+   embedded in a product You distribute where the schemas are controlled by
+   You and not by the product's users, is not a Database Service.
+
+5. Commercial Licenses
+
+   Commercial Licenses for use under Section 3(b) or Section 4 are available
+   from the Licensor. Contact: licensing@runlot.io.
+
+6. Change License
+
+   On the Change Date of a version of the Software, the Licensor grants You
+   rights in that version under the Apache License, Version 2.0, and the
+   rights and conditions of Sections 2 through 5 cease to apply to that
+   version. The Change Date may differ for each version and is recorded in
+   the Software's release notes.
+
+7. Trademarks
+
+   This license grants no rights in the names "Colibri" or "Runlot" or any
+   logo of the Licensor, except that You may use the name "Colibri" to refer
+   truthfully to the Software. A derivative work You distribute must not be
+   named or presented in a way that suggests it is the Software or is
+   endorsed by the Licensor.
+
+8. Termination
+
+   Any use of the Software in breach of this license terminates Your rights
+   under it for every version of the Software. Rights are restored if the
+   breach is cured within thirty days of You becoming aware of it, unless the
+   Licensor has already notified You of the breach.
+
+9. Patents
+
+   The Licensor grants You a license under any patent claims it owns that are
+   necessarily infringed by the Software as distributed by the Licensor, for
+   the uses this license permits. If You bring a patent claim against anyone
+   alleging that the Software infringes a patent, Your rights under this
+   license terminate.
+
+10. Disclaimer and limitation
+
+   TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS
+   IS". THE LICENSOR DISCLAIMS ALL WARRANTIES AND CONDITIONS, EXPRESS OR
+   IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+   PURPOSE, NON-INFRINGEMENT AND TITLE. IN NO EVENT WILL THE LICENSOR BE
+   LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THE SOFTWARE, INCLUDING
+   INDIRECT, INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, EVEN IF ADVISED OF
+   THEIR POSSIBILITY.
+
+11. Governing law
+
+   This license is governed by the laws of the Republic of Korea, without
+   regard to conflict-of-law rules. The English text of this license governs
+   over any translation.

@@ -1,0 +1,58 @@
+Colibri
+Copyright (c) 2026 Runlot
+
+Licensed under the Colibri Source License 1.0 (see LICENSE). Each version becomes
+available under the Apache License, Version 2.0 on its Change Date, four years
+after its first public release.
+
+The Colibri name and logo are trademarks of Runlot and are not licensed by the
+LICENSE file; see TRADEMARKS below.
+
+Third-party material
+--------------------
+
+Colibri's SQL grammar is derived from PostgreSQL's parser sources (src/backend/
+parser/gram.y, scan.l and the node definitions), through the libpg_query
+extraction. Both are distributed under the PostgreSQL License:
+
+  PostgreSQL Database Management System
+  (formerly known as Postgres, then as Postgres95)
+  Portions Copyright (c) 1996-2026, PostgreSQL Global Development Group
+  Portions Copyright (c) 1994, The Regents of the University of California
+
+  Permission to use, copy, modify, and distribute this software and its
+  documentation for any purpose, without fee, and without a written agreement
+  is hereby granted, provided that the above copyright notice and this
+  paragraph and the following two paragraphs appear in all copies.
+
+  IN NO EVENT SHALL THE UNIVERSITY OF CALIFORNIA BE LIABLE TO ANY PARTY FOR
+  DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, INCLUDING
+  LOST PROFITS, ARISING OUT OF THE USE OF THIS SOFTWARE AND ITS DOCUMENTATION,
+  EVEN IF THE UNIVERSITY OF CALIFORNIA HAS BEEN ADVISED OF THE POSSIBILITY OF
+  SUCH DAMAGE.
+
+  THE UNIVERSITY OF CALIFORNIA SPECIFICALLY DISCLAIMS ANY WARRANTIES, INCLUDING,
+  BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+  A PARTICULAR PURPOSE. THE SOFTWARE PROVIDED HEREUNDER IS ON AN "AS IS" BASIS,
+  AND THE UNIVERSITY OF CALIFORNIA HAS NO OBLIGATIONS TO PROVIDE MAINTENANCE,
+  SUPPORT, UPDATES, ENHANCEMENTS, OR MODIFICATIONS.
+
+Design references (no code copied): Neon's safekeeper (Apache-2.0) for the
+commit-log protocol; SlateDB (Apache-2.0) for the object-store manifest and
+conditional-PUT fencing; Apache Lucene (Apache-2.0) for per-segment vector
+graphs. The licence's shape — free below a revenue threshold, a database-
+service exclusion, a four-year conversion to Apache-2.0 — follows the
+CockroachDB Software License and the Business Source License 1.1; neither
+text is reproduced.
+
+Rust dependencies are vendored under their own licences; `cargo deny` restricts
+them to the allow list in deny.toml and the full set is listed by
+`cargo about` in each release.
+
+TRADEMARKS
+----------
+
+"Colibri" and the Colibri logo are trademarks of Runlot. You may use the name to
+refer to the software truthfully. You may not use it for a fork, a product or a
+service in a way that suggests Runlot's endorsement or that the fork is the
+original.
